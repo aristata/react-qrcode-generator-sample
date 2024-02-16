@@ -1,0 +1,5 @@
+*.config.js
+*.json
+*.md
+.gitignore
+.eslintrc.cjs
